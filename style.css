@@ -1,0 +1,27 @@
+img {
+    border-radius: 50%;
+}
+.center-box{
+    display:flex;
+    justify-content: center;
+}
+body{
+    background-color: rgb(33, 206, 27);
+}
+.myname{
+    color: rgb(218, 13, 13);
+    text-align: center;
+    font-style: oblique;
+    font-size: 3rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+.center2{
+    display:flex;
+    justify-content: center;
+    color: blue;
+    border-top-color: aqua;
+}
+.s{
+    display:flex;
+    justify-content: space-around;
+}
